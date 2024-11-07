@@ -13,7 +13,7 @@
 
 ## 코드
 def solution(arr):
-    i = 1
+    i = 0
     
     while 2**i < len(arr):
         i += 1
